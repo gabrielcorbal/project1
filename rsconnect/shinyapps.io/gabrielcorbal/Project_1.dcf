@@ -1,0 +1,13 @@
+name: Project_1
+title: Project_1
+username:
+account: gabrielcorbal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1327745
+bundleId: 2500405
+url: https://gabrielcorbal.shinyapps.io/Project_1/
+when: 1571095819.997
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: worldbank4.R
